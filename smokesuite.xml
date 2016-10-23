@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SmokeSuite" parallel="false">
+
+
+	<test name="smoke">
+	
+	<groups>
+      <run>
+      <include name="smoke" />
+      </run>
+   </groups>
+
+		<classes>
+			<class name="com.vmware.salespulse.test.SuiteSetupTest" />
+			<class name="com.vmware.salespulse.test.SuiteTearDownTest" />
+			<class name="com.vmware.salespulse.test.Testcases" />
+		</classes>
+
+	</test>
+	
+
+
+
+</suite>

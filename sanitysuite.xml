@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SanitySuite" parallel="false">
+
+
+	<test name="sanitytest">
+	
+	<groups>
+      <run>
+      <include name="sanitytest" />
+      </run>
+   </groups>
+
+		<classes>
+			<class name="com.vmware.salespulse.test.SuiteSetupTest" />
+			<class name="com.vmware.salespulse.test.SuiteTearDownTest" />
+			<class name="com.vmware.salespulse.test.Testcases" />
+		</classes>
+
+	</test>
+
+</suite>
