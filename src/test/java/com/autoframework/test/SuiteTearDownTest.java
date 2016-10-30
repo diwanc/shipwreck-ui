@@ -1,10 +1,10 @@
-package com.vmware.salespulse.test;
+package com.autoframework.test;
 
 import org.apache.log4j.Logger;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.Listeners;
 
-import com.vmware.salespulse.utils.ScreenshotUtility;
+import com.autoframework.utils.ScreenshotUtility;
 
 public class SuiteTearDownTest
 {

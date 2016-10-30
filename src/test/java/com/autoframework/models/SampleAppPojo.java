@@ -1,6 +1,6 @@
-package com.vmware.salespulse.models;
+package com.autoframework.models;
 
-public class SalespulsePojo 
+public class SampleAppPojo 
 {
 	public String dashboardHeader;
 	public String insightBottom;
@@ -14,7 +14,7 @@ public class SalespulsePojo
 	public String dealsOftheWeekText;
 	public String latestInsightsText = "Latest Insights";
 	
-	public SalespulsePojo()
+	public SampleAppPojo()
 	{
 		super();
 		this.dashboardHeader = "Dashboard";

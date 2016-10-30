@@ -7552,3 +7552,260 @@
 2016-10-23 16:46:26 INFO  Login:19 - In Login class
 2016-10-23 16:46:31 INFO  Login:24 - SalesPulse heading asserted
 2016-10-23 16:46:42 INFO  Login:30 - Email entered
+2016-10-30 15:19:12 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 15:19:12 INFO  HomePageSelendroid:13 - In Homepage class
+2016-10-30 15:50:21 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 15:50:21 INFO  HomePageSelendroid:13 - In Homepage class
+2016-10-30 15:54:41 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 15:54:41 INFO  HomePageSelendroid:13 - In Homepage class
+2016-10-30 16:02:49 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:02:49 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:02:49 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:02:49 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:02:49 INFO  SuiteSetupTest:115 - Running script for Android
+2016-10-30 16:11:16 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:11:16 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:11:16 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:11:16 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:11:16 INFO  SuiteSetupTest:115 - Running script for Android
+2016-10-30 16:13:31 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:13:31 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:13:31 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:13:31 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:13:31 INFO  SuiteSetupTest:116 - Running script for Android
+2016-10-30 16:18:25 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:18:25 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:18:25 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:18:25 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:18:25 INFO  SuiteSetupTest:116 - Running script for Android
+2016-10-30 16:24:51 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:24:51 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:24:51 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:24:51 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:24:51 INFO  SuiteSetupTest:66 - Setting Local App path: null
+2016-10-30 16:24:51 INFO  SuiteSetupTest:69 - Setting device name: null
+2016-10-30 16:24:51 INFO  SuiteSetupTest:120 - Running script for Android
+2016-10-30 16:31:13 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:31:13 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:31:13 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:31:13 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:31:13 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 16:31:13 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 16:31:13 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 16:31:23 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 16:31:23 INFO  HomePageSelendroid:13 - In Homepage class
+2016-10-30 16:31:28 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 16:33:27 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:33:27 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:33:27 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:33:27 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:33:27 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 16:33:27 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 16:33:27 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 16:33:34 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 16:33:34 INFO  HomePageSelendroid:13 - In Homepage class
+2016-10-30 16:33:39 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 16:42:22 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:42:22 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:42:22 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:42:22 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:42:22 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 16:42:22 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 16:42:22 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 16:42:28 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 16:42:28 INFO  HomePageSelendroid:13 - In Homepage class
+2016-10-30 16:42:28 INFO  CommonMethods:38 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 16:42:43 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 16:56:15 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:56:15 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:56:15 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:56:15 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:56:15 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 16:56:15 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 16:56:15 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 16:56:23 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 16:56:23 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 16:56:23 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 16:56:28 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 16:59:07 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 16:59:07 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 16:59:07 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 16:59:07 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 16:59:07 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 16:59:07 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 16:59:07 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 16:59:13 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 16:59:13 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 16:59:13 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 16:59:19 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 17:01:32 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:01:32 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:01:32 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:01:32 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:01:32 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:01:32 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:01:32 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:01:38 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 17:01:38 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 17:01:38 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:01:43 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 17:14:06 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:14:06 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:14:06 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:14:06 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:14:06 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:14:06 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:14:06 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:14:12 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 17:14:12 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 17:14:12 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:14:17 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 17:18:52 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:18:52 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:18:52 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:18:52 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:18:52 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:18:52 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:18:52 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:18:58 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 17:18:58 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 17:18:58 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:19:03 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 17:23:02 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:23:02 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:23:02 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:23:02 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:23:02 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:23:02 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:23:02 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:23:12 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 17:23:12 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 17:23:12 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:23:20 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 17:27:26 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:27:26 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:27:26 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:27:26 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:27:26 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:27:26 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:27:26 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:27:32 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 17:27:32 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 17:27:32 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:27:37 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 17:31:52 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:31:52 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:31:52 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:31:52 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:31:52 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:31:52 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:31:52 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:32:02 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 17:32:02 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 17:32:02 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:32:02 INFO  CommonMethods:51 - Inside the try block
+2016-10-30 17:33:05 INFO  CommonMethods:74 - Unknown Exception encountered. Printing the stack trace
+2016-10-30 17:33:05 INFO  CommonMethods:78 - Getting out of GetElement Method.
+2016-10-30 17:33:10 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 17:34:15 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:34:15 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:34:15 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:34:15 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:34:15 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:34:15 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:34:15 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:34:21 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 17:34:21 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 17:34:21 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:34:21 INFO  CommonMethods:51 - Inside the try block
+2016-10-30 17:35:25 INFO  CommonMethods:74 - Unknown Exception encountered. Printing the stack trace
+2016-10-30 17:35:25 INFO  CommonMethods:78 - Getting out of GetElement Method.
+2016-10-30 17:35:30 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 17:40:23 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:40:23 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:40:23 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:40:23 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:40:23 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:40:23 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:40:23 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:40:30 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 17:40:30 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 17:40:30 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:40:30 INFO  CommonMethods:51 - Inside the try block
+2016-10-30 17:42:15 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:42:15 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:42:15 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:42:15 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:42:15 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:42:15 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:42:15 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:45:53 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 17:45:53 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 17:45:53 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 17:45:53 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 17:45:53 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 17:45:53 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 17:45:53 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 17:46:01 INFO  SelendroidAppTests:22 - Executing Edit box test case
+2016-10-30 17:46:01 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 17:46:01 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:46:01 INFO  CommonMethods:51 - Inside the try block
+2016-10-30 17:46:11 INFO  CommonMethods:70 - Element not found: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 17:46:11 INFO  CommonMethods:78 - Getting out of GetElement Method.
+2016-10-30 17:46:16 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 18:00:22 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 18:00:22 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 18:00:22 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 18:00:22 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 18:00:22 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 18:00:22 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 18:00:22 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 18:00:30 INFO  SelendroidAppTests:22 - Executing HomePage_ClickButtonTest
+2016-10-30 18:00:30 INFO  HomePageSelendroid:23 - In Homepage class
+2016-10-30 18:00:30 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.Button[@text='Displays a Toast']
+2016-10-30 18:00:30 INFO  CommonMethods:51 - Inside the try block
+2016-10-30 18:00:31 INFO  CommonMethods:59 - Element found - returning the element
+2016-10-30 18:00:39 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 18:03:36 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 18:03:36 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 18:03:36 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 18:03:36 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 18:03:36 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 18:03:36 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 18:03:36 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 18:03:42 INFO  SelendroidAppTests:22 - Executing HomePage_ClickButtonTest
+2016-10-30 18:03:42 INFO  HomePageSelendroid:23 - In Homepage class
+2016-10-30 18:03:42 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.Button[@text='Displays a Toast']
+2016-10-30 18:03:42 INFO  CommonMethods:51 - Inside the try block
+2016-10-30 18:03:43 INFO  CommonMethods:59 - Element found - returning the element
+2016-10-30 18:03:49 INFO  SelendroidAppTests:30 - Executing Edit box test case
+2016-10-30 18:03:49 INFO  HomePageSelendroid:15 - In Homepage class
+2016-10-30 18:03:49 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 18:03:49 INFO  CommonMethods:51 - Inside the try block
+2016-10-30 18:03:59 INFO  CommonMethods:70 - Element not found: //android.widget.EditText[@content_desc='my_text_fieldCD']
+2016-10-30 18:03:59 INFO  CommonMethods:78 - Getting out of GetElement Method.
+2016-10-30 18:04:04 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 18:08:56 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 18:08:56 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 18:08:56 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 18:08:56 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 18:08:56 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 18:08:56 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 18:08:56 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 18:09:03 INFO  SelendroidAppTests:22 - Executing HomePage_ClickButtonTest
+2016-10-30 18:09:03 INFO  HomePageSelendroid:26 - In Homepage class
+2016-10-30 18:09:03 INFO  CommonMethods:47 - Inside the GetElement Method. Trying to find the element: //android.widget.Button[@text='Displays a Toast']
+2016-10-30 18:09:04 INFO  CommonMethods:58 - Element found - returning the element
+2016-10-30 18:09:11 INFO  SuiteTearDownTest:19 - app is closed
+2016-10-30 18:50:02 INFO  SuiteSetupTest:43 - Running Sanity suite
+2016-10-30 18:50:02 INFO  SuiteSetupTest:48 - parameter1 CD or QAUSER : local
+2016-10-30 18:50:02 INFO  SuiteSetupTest:50 - parameter2, Android or iOS : android
+2016-10-30 18:50:02 INFO  SuiteSetupTest:52 - parameter3, Suite Name : sanitysuite.xml
+2016-10-30 18:50:02 INFO  SuiteSetupTest:101 - Running script for Android
+2016-10-30 18:50:02 INFO  SuiteSetupTest:135 - Setting Local App path: C:\Users\schikkajalash\Desktop\Downloads\selendroid-test-app.apk
+2016-10-30 18:50:02 INFO  SuiteSetupTest:138 - Setting device name: Nexus_5_API_22 
+2016-10-30 18:50:09 INFO  SelendroidAppTests:22 - Executing HomePage_ClickButtonTest
+2016-10-30 18:50:09 INFO  HomePageSelendroid:26 - In HomePageSelendroid_ClickButton_DisplayToast
+2016-10-30 18:50:09 INFO  CommonMethods:42 - Inside the GetElement Method. Trying to find the element: //android.widget.Button[@text='Displays a Toast']
+2016-10-30 18:50:10 INFO  CommonMethods:53 - Element found - returning the element
+2016-10-30 18:50:17 INFO  SuiteTearDownTest:19 - app is closed

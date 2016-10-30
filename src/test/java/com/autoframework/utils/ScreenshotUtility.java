@@ -1,4 +1,4 @@
-package com.vmware.salespulse.utils;
+package com.autoframework.utils;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import com.vmware.salespulse.test.SuiteSetupTest;
+import com.autoframework.test.SuiteSetupTest;
 
 public class ScreenshotUtility implements ITestListener {
  // This method will execute before starting of Test suite.

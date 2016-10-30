@@ -1,4 +1,4 @@
-package com.vmware.salespulse.connectors;
+package com.autoframework.connectors;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
