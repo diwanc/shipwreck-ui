@@ -22,17 +22,18 @@ import org.testng.annotations.Listeners;
 import org.openqa.selenium.remote.CapabilityType;
 
 import com.autoframework.connectors.DatabaseConnectionHolder;
+import com.autoframework.utils.ScreenshotUtility;
 
-public class SuiteSetupTest
+public class SuiteSetupTest_Web
 {
-	private static final Logger logger = Logger.getLogger(SuiteSetupTest.class);
+	private static final Logger logger = Logger.getLogger(SuiteSetupTest_Web.class);
 	public static AppiumDriver driver;
 	public static final Properties prop = new Properties();
 	public static final String USERNAME = "SDP_Sauce8";
 	public static final String ACCESS_KEY = "98a3e24c-bdb0-4014-a38f-1a7bf9618733";
 	public static final String URL = "http://" + USERNAME + ":" + ACCESS_KEY + "@localhost:4445/wd/hub";
 	public static final Properties databaseProp = new Properties();
-	//public static DatabaseConnectionHolder dch1;
+	public static DatabaseConnectionHolder dch1;
 	public static Connection connection1;
 	
 	//@BeforeSuite for smoke suite
@@ -51,90 +52,6 @@ public class SuiteSetupTest
 		logger.info("parameter3, Suite Name : " + param3);
 		InputStream input = null;
 		
-		//Setting the param according to 
-		if (param1.contains("SAUCE"))
-		{
-			logger.info("Setting Sauce App path");
-			appPath = prop.getProperty("appPathSAUCE");
-			platformVersion = prop.getProperty("platformVersion");
-			deviceName = prop.getProperty("deviceName");
-		}
-		else
-		{
-	
-			
-			
-		//}
-		if (param2.contains("ios"))
-		{
-			logger.info("Running script for iOS");
-			try
-			{
-				input = new FileInputStream("src/test/resources/ios.properties");
-				// load a properties file
-				prop.load(input);
-			}
-			catch (IOException ex)
-			{
-				logger.info(ex);
-			}
-			finally
-			{
-				if (input != null)
-				{
-					try
-					{
-						input.close();
-					}
-					catch (IOException e)
-					{
-						logger.info(e);
-					}
-				}
-			}
-			
-			
-		}
-		else
-		{
-			logger.info("Running script for Android");
-			try
-			{
-				input = new FileInputStream("src/test/resources/android.properties");
-				// load a properties file
-				prop.load(input);
-			}
-			catch (IOException ex)
-			{
-				logger.info(ex);
-			}
-			finally
-			{
-				if (input != null)
-				{
-					try
-					{
-						input.close();
-					}
-					catch (IOException e)
-					{
-						logger.info(e);
-					}
-				}
-			}
-			
-			
-		}
-		
-			
-	
-	
-	
-	appPath = prop.getProperty("appPathLocal");
-	logger.info("Setting Local App path: "+appPath);
-	platformVersion = prop.getProperty("cdqalocalplatformVersion");
-	deviceName = prop.getProperty("cdqalocaldeviceName");
-	logger.info("Setting device name: "+deviceName);
 	
 	//Setting  Capabilities
 			DesiredCapabilities capabilities = new DesiredCapabilities();

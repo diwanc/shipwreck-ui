@@ -7809,3 +7809,185 @@
 2016-10-30 18:50:09 INFO  CommonMethods:42 - Inside the GetElement Method. Trying to find the element: //android.widget.Button[@text='Displays a Toast']
 2016-10-30 18:50:10 INFO  CommonMethods:53 - Element found - returning the element
 2016-10-30 18:50:17 INFO  SuiteTearDownTest:19 - app is closed
+2016-11-05 15:30:28 INFO  SelendroidAppTests:28 - Launched the browser
+2016-11-05 15:31:21 INFO  SelendroidAppTests:28 - Launched the browser
+2016-11-05 15:31:23 INFO  SelendroidAppTests:36 - Clicked on accounts
+2016-11-05 15:31:23 INFO  SelendroidAppTests:39 - entered username
+2016-11-05 15:31:23 INFO  SelendroidAppTests:41 - entered password
+2016-11-05 15:54:31 INFO  test2:25 - New driver instantiated
+2016-11-05 15:54:31 INFO  test2:27 - Implicit wait applied on the driver for 10 seconds
+2016-11-05 15:54:39 INFO  test2:34 - Launched the browser
+2016-11-05 15:54:42 INFO  test2:37 - Clicked on accounts
+2016-11-05 15:54:42 INFO  test2:40 - entered username
+2016-11-05 15:54:43 INFO  test2:42 - entered password
+2016-11-05 16:03:34 INFO  test2:25 - New driver instantiated
+2016-11-05 16:03:34 INFO  test2:27 - Implicit wait applied on the driver for 10 seconds
+2016-11-05 16:03:45 INFO  test2:34 - Launched the browser
+2016-11-05 16:03:46 INFO  test2:37 - Clicked on accounts
+2016-11-05 16:03:46 INFO  test2:40 - entered username
+2016-11-05 16:03:46 INFO  test2:42 - entered password
+2016-11-05 16:26:47 INFO  SelendroidAppTests:28 - Launched the browser
+2016-11-05 16:28:26 INFO  SelendroidAppTests:28 - Launched the browser
+2016-11-05 16:36:56 INFO  SelendroidAppTests:28 - Launched the browser
+2016-11-05 16:38:49 INFO  test1:28 - Launched the browser
+2016-11-05 16:47:08 INFO  test1:28 - Launched the browser
+2016-11-05 16:50:55 INFO  test1:28 - Launched the browser
+2016-11-05 16:53:04 INFO  test1:28 - Launched the browser
+2016-11-05 16:56:31 INFO  test1:28 - Launched the browser
+2016-11-05 17:01:07 INFO  test1:28 - Launched the browser
+2016-11-05 17:01:08 INFO  test1:33 - username: 
+2016-11-05 17:01:11 INFO  test1:37 - Clicked on accounts
+2016-11-05 17:01:11 INFO  test1:40 - entered username
+2016-11-05 17:01:11 INFO  test1:42 - entered password
+2016-11-05 17:17:29 INFO  test1:28 - Launched the browser
+2016-11-05 17:17:29 INFO  test1:37 - Clicked on accounts
+2016-11-05 17:17:32 INFO  test1:40 - entered username
+2016-11-05 17:17:32 INFO  test1:42 - entered password
+2016-11-05 17:22:41 INFO  test1:28 - Launched the browser
+2016-11-05 17:22:41 INFO  test1:33 - username:ljljlkjlkjlkjkllkljljljljlkjlkjljl
+2016-11-05 17:22:44 INFO  test1:37 - Clicked on accounts
+2016-11-05 17:22:44 INFO  test1:40 - entered username
+2016-11-05 17:22:44 INFO  test1:42 - entered password
+2016-11-07 17:02:39 INFO  test3:23 - New driver instantiated
+2016-11-07 17:02:39 INFO  test3:25 - Implicit wait applied on the driver for 10 seconds
+2016-11-07 17:02:49 INFO  test3:32 - Launched the browser
+2016-11-07 17:04:03 INFO  test3:23 - New driver instantiated
+2016-11-07 17:04:03 INFO  test3:25 - Implicit wait applied on the driver for 10 seconds
+2016-11-07 17:04:15 INFO  test3:32 - Launched the browser
+2016-11-07 17:05:11 INFO  test3:23 - New driver instantiated
+2016-11-07 17:05:11 INFO  test3:25 - Implicit wait applied on the driver for 10 seconds
+2016-11-07 17:05:11 INFO  test3:28 - Launched the browser
+2016-11-07 17:06:41 INFO  test3:23 - New driver instantiated
+2016-11-07 17:06:41 INFO  test3:25 - Implicit wait applied on the driver for 10 seconds
+2016-11-07 17:06:41 INFO  test3:28 - Launched the browser
+2016-11-07 17:11:07 INFO  test3:23 - New driver instantiated
+2016-11-07 17:11:07 INFO  test3:25 - Implicit wait applied on the driver for 10 seconds
+2016-11-07 17:11:09 INFO  test3:28 - Launched the browser
+2016-11-07 17:19:19 INFO  test3:23 - New driver instantiated
+2016-11-07 17:19:19 INFO  test3:25 - Implicit wait applied on the driver for 10 seconds
+2016-11-07 17:19:20 INFO  test3:28 - Launched the browser
+2016-11-07 17:27:06 INFO  test3:23 - New driver instantiated
+2016-11-07 17:27:06 INFO  test3:25 - Implicit wait applied on the driver for 10 seconds
+2016-11-07 17:27:06 INFO  test3:28 - Launched the browser
+2016-11-07 17:29:13 INFO  test3:23 - New driver instantiated
+2016-11-07 17:29:13 INFO  test3:25 - Implicit wait applied on the driver for 10 seconds
+2016-11-07 17:29:15 INFO  test3:28 - Launched the browser
+2016-11-08 12:16:58 INFO  Shipwreck_e2e_test_1:24 - New driver instantiated
+2016-11-08 12:16:58 INFO  Shipwreck_e2e_test_1:26 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:17:05 INFO  Shipwreck_e2e_test_1:29 - Launched the app
+2016-11-08 12:17:06 INFO  ShipWrecksHomepage:17 - Validated home page
+2016-11-08 12:32:04 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 12:32:04 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:32:10 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 12:32:10 INFO  ShipWrecksHomepage:26 - Navigated to shipwrecks listing page
+2016-11-08 12:32:49 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 12:32:49 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:32:55 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 12:32:55 INFO  ShipWrecksHomepage:26 - Navigated to shipwrecks listing page
+2016-11-08 12:39:21 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 12:39:21 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:39:26 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 12:39:26 INFO  ShipWrecksHomepage:26 - Navigated to shipwrecks listing page
+2016-11-08 12:39:26 INFO  ShipwrecksListPage:31 - Navigate to View Shipwreck page
+2016-11-08 12:43:01 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 12:43:01 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:43:12 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 12:43:12 INFO  ShipWrecksHomepage:26 - Navigated to shipwrecks listing page
+2016-11-08 12:44:32 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 12:44:32 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:44:38 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 12:48:20 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 12:48:20 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:48:26 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 12:51:35 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 12:51:35 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:51:41 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 12:51:41 INFO  ShipWrecksHomepage:26 - Navigated to shipwrecks listing page
+2016-11-08 12:57:01 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 12:57:01 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:57:07 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 12:57:07 INFO  ShipWrecksHomepage:26 - Navigated to shipwrecks listing page
+2016-11-08 12:59:09 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 12:59:09 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 12:59:15 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 12:59:15 INFO  ShipWrecksHomepage:26 - Navigated to shipwrecks listing page
+2016-11-08 13:01:49 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 13:01:49 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 13:01:55 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 13:05:15 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 13:05:15 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 13:05:21 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 13:05:25 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 13:05:25 INFO  ShipwrecksListPage:33 - Navigate to Add New Shipwreck page
+2016-11-08 13:05:26 INFO  AddNewShipwrecksPage:40 - Saved Details of shipwreck
+2016-11-08 13:17:42 INFO  Shipwreck_e2e_test_4:27 - New driver instantiated
+2016-11-08 13:17:42 INFO  Shipwreck_e2e_test_4:29 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 13:17:48 INFO  Shipwreck_e2e_test_4:32 - Launched the app
+2016-11-08 13:17:52 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 13:19:44 INFO  Shipwreck_e2e_test_4:27 - New driver instantiated
+2016-11-08 13:19:44 INFO  Shipwreck_e2e_test_4:29 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 13:19:50 INFO  Shipwreck_e2e_test_4:32 - Launched the app
+2016-11-08 13:19:54 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 13:37:36 INFO  Shipwreck_e2e_test_4:27 - New driver instantiated
+2016-11-08 13:37:36 INFO  Shipwreck_e2e_test_4:29 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 13:37:42 INFO  Shipwreck_e2e_test_4:32 - Launched the app
+2016-11-08 13:37:46 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 13:37:46 INFO  ViewShipwrecksPage:19 - View page of Details of shipwreck
+2016-11-08 14:34:27 INFO  Shipwreck_e2e_test_5:30 - New driver instantiated
+2016-11-08 14:34:27 INFO  Shipwreck_e2e_test_5:32 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 14:34:33 INFO  Shipwreck_e2e_test_5:35 - Launched the app
+2016-11-08 14:34:38 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 14:37:54 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 14:37:54 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 14:38:00 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 14:38:04 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 14:38:04 INFO  ShipwrecksListPage:33 - Navigate to Add New Shipwreck page
+2016-11-08 14:38:06 INFO  AddNewShipwrecksPage:40 - Saved Details of shipwreck
+2016-11-08 14:40:30 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 14:40:30 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 14:40:36 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 14:40:40 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 14:40:40 INFO  ShipwrecksListPage:33 - Navigate to Add New Shipwreck page
+2016-11-08 14:40:45 INFO  AddNewShipwrecksPage:45 - Saved Details of shipwreck
+2016-11-08 14:43:56 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 14:43:56 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 14:44:02 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 14:44:06 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 14:44:06 INFO  ShipwrecksListPage:33 - Navigate to Add New Shipwreck page
+2016-11-08 14:44:11 INFO  AddNewShipwrecksPage:45 - Saved Details of shipwreck
+2016-11-08 14:46:07 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 14:46:07 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 14:46:13 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 14:46:17 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 14:46:17 INFO  ShipwrecksListPage:33 - Navigate to Add New Shipwreck page
+2016-11-08 14:46:24 INFO  AddNewShipwrecksPage:53 - Saved Details of shipwreck
+2016-11-08 14:49:02 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 14:49:02 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 14:49:07 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 14:49:12 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 14:49:12 INFO  ShipwrecksListPage:33 - Navigate to Add New Shipwreck page
+2016-11-08 14:49:21 INFO  AddNewShipwrecksPage:46 - Saved Details of shipwreck
+2016-11-08 14:53:35 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 14:53:35 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 14:53:40 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 14:53:44 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 14:53:44 INFO  ShipwrecksListPage:33 - Navigate to Add New Shipwreck page
+2016-11-08 14:53:54 INFO  AddNewShipwrecksPage:49 - Saved Details of shipwreck
+2016-11-08 15:20:37 INFO  Shipwreck_e2e_test_1:24 - New driver instantiated
+2016-11-08 15:20:37 INFO  Shipwreck_e2e_test_1:26 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 15:20:42 INFO  Shipwreck_e2e_test_1:29 - Launched the app
+2016-11-08 15:20:43 INFO  ShipWrecksHomepage:17 - Validated home page
+2016-11-08 15:20:46 INFO  Shipwreck_e2e_test_2:26 - New driver instantiated
+2016-11-08 15:20:46 INFO  Shipwreck_e2e_test_2:28 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 15:20:52 INFO  Shipwreck_e2e_test_2:31 - Launched the app
+2016-11-08 15:20:56 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 15:20:56 INFO  ShipwrecksListPage:33 - Navigate to Add New Shipwreck page
+2016-11-08 15:21:06 INFO  AddNewShipwrecksPage:48 - Saved Details of shipwreck
+2016-11-08 15:21:09 INFO  Shipwreck_e2e_test_3:27 - New driver instantiated
+2016-11-08 15:21:09 INFO  Shipwreck_e2e_test_3:29 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 15:21:15 INFO  Shipwreck_e2e_test_3:32 - Launched the app
+2016-11-08 15:21:19 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page
+2016-11-08 15:22:25 INFO  Shipwreck_e2e_test_4:30 - New driver instantiated
+2016-11-08 15:22:25 INFO  Shipwreck_e2e_test_4:32 - Implicit wait applied on the driver for 10 seconds
+2016-11-08 15:22:31 INFO  Shipwreck_e2e_test_4:35 - Launched the app
+2016-11-08 15:22:35 INFO  ShipWrecksHomepage:34 - Navigated to shipwrecks listing page

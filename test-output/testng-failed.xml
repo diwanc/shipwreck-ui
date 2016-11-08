@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SanitySuite]">
+  <test name="sanitytest(failed)">
+    <classes>
+      <class name="com.autoframework.test.Shipwreck_e2e_test_2">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.autoframework.test.Shipwreck_e2e_test_2 -->
+      <class name="com.autoframework.test.Shipwreck_e2e_test_4">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="ViewShipWreckTest"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.autoframework.test.Shipwreck_e2e_test_4 -->
+      <class name="com.autoframework.test.Shipwreck_e2e_test_1">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.autoframework.test.Shipwreck_e2e_test_1 -->
+      <class name="com.autoframework.test.Shipwreck_e2e_test_3">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="ViewShipWreckTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.autoframework.test.Shipwreck_e2e_test_3 -->
+    </classes>
+  </test> <!-- sanitytest(failed) -->
+</suite> <!-- Failed suite [SanitySuite] -->

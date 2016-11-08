@@ -1,4 +1,4 @@
-package com.autoframework.utils;
+/*package com.autoframework.utils;
 
 import java.io.File;
 import java.io.IOException;
@@ -86,4 +86,4 @@ public class ScreenshotUtility implements ITestListener {
 	 SuiteSetupTest.driver.resetApp();
  }
  
-}
+}*/

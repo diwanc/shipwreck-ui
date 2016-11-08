@@ -1,4 +1,4 @@
-package com.autoframework.test;
+/*package com.autoframework.test;
 
 import org.apache.log4j.Logger;
 import org.testng.annotations.AfterSuite;
@@ -19,3 +19,4 @@ public class SuiteTearDownTest
 		logger.info("app is closed");
 	}
 }
+*/

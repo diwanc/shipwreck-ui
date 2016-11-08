@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SanitySuite" parallel="false">
+
+
+	<test name="sanitytest">
+	
+	
+
+		<classes>
+			<class name="com.autoframework.test.Shipwreck_e2e_test_1" />
+			<class name="com.autoframework.test.Shipwreck_e2e_test_2" />	
+			<class name="com.autoframework.test.Shipwreck_e2e_test_3" />
+			<class name="com.autoframework.test.Shipwreck_e2e_test_4" />		
+		</classes>
+
+	</test>
+
+</suite>
